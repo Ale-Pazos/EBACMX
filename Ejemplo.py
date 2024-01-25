@@ -9,3 +9,11 @@ print('resultado=',c)
 
 d=c*200
 print('resultado=',d)
+
+##Cambiando el factor  102 segun req del negocio
+##Cambiando el factor 110 segun junta de control
+##Cambio  a factor 200 por Directorio
+
+d=c*200
+print('resultado total=', d)
+

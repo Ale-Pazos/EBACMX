@@ -1,5 +1,5 @@
 
-#Se quitan valores numericos de la ecuacion C
+#Se quitan valores numericos de la ecuacion C..
 a=10
 b=30
 e=1.1
